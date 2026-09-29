@@ -1,0 +1,6 @@
+{
+  "name": "FitBuddy - AI Fitness & Workout Plan Generator",
+  "description": "Personalized 7-day workout plans, dynamic plan regeneration with feedback, targeted nutrition tips, and coach oversight dashboard powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
